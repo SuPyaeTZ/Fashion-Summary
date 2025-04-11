@@ -9,11 +9,11 @@ How to run the Fashion Summary Website Project Using PHP and MySQL
 
 4.Open PHPMyAdmin (http://localhost/phpmyadmin)
 
-5.Create a database with name gymdb
+5.Create a database with name fashiondb
 
 6.Import fashion.sql file(given inside the zip package in SQL file folder)
 
-7.Run the script http://localhost/gym
+7.Run the script http://localhost/Fashion Summary
 
 Admin Credential
 Username: susu
