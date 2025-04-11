@@ -1,9 +1,9 @@
 # Fashion-Summary
  Online Shop Website
-How to run the GYM  Management System Project Using PHP and MySQL
+How to run the Fashion Summary Website Project Using PHP and MySQL
 1.Download the zip file
 
-2.Extract the file and copy gym folder
+2.Extract the file and copy Online Shop folder
 
 3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
 
